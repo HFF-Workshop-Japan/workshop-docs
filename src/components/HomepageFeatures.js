@@ -4,11 +4,11 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'HFFを盛り上げる',
+    title: '日本からHFFを盛り上げる',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        HFF-Workshop-Japanは、Human:FallFlatをより盛り上げるために活動します。
+        HFF-Workshop-Japanは、日本からHuman:FallFlatを盛り上げるために活動します。
       </>
     ),
   },
@@ -17,16 +17,16 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        このサイトは誰もが情報にアクセスし、より面白いコンテンツを生み出せるよう、情報公開します。
+        誰もが面白いコンテンツを生み出せるよう、全員が情報にアクセスできるようにします。
       </>
     ),
   },
   {
-    title: '日本語のコミュニティ',
+    title: '誰もが貢献できるコミュニティ',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Human:FallFlatの日本語での情報発信、コミュニティを提供します。
+        <a href="https://github.com/HFF-Workshop-Japan/workshop-docs" target="_blank">Github</a>などを通じて誰もが情報を公開することができ、コミュニティーとHFFに貢献できます。
       </>
     ),
   },

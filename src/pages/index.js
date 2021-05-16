@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            ワークショップチュートリアルを見る
           </Link>
         </div>
       </div>
@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`ようこそ`}
+      description="HFF-Workshop-Japanは日本のHuman:FallFlatワークショップコミュニティです。誰もが情報にアクセスし、より面白いコンテンツを生み出せるよう、情報公開を行っています。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

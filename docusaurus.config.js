@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'HFF-Workshop-Japan',
-  tagline: 'Human Fall Flat Workshop Community at Japan',
+  tagline: '日本のHuman:FallFlat',
   url: 'https://hff-workshop-japan.github.io',
   baseUrl: '/workshop-docs/',
   onBrokenLinks: 'throw',
@@ -24,11 +24,11 @@ module.exports = {
           label: 'チュートリアル',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          href: 'https://github.com/HFF-Workshop-Japan/workshop-docs',
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {
