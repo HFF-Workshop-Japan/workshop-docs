@@ -3,7 +3,7 @@ module.exports = {
   title: 'HFF-Workshop-Japan',
   tagline: '日本のHuman:FallFlat',
   url: 'https://hff-workshop-japan.github.io',
-  baseUrl: '/workshop-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
