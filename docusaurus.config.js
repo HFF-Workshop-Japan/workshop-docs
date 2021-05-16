@@ -2,13 +2,13 @@
 module.exports = {
   title: 'HFF-Workshop-Japan',
   tagline: 'Human Fall Flat Workshop Community at Japan',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://hff-workshop-japan.github.io',
+  baseUrl: '/workshop-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'HFF-Workshop-Japan', // Usually your GitHub org/user name.
+  projectName: 'workshop-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HFF-Workshop-Japan',

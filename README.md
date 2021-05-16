@@ -1,3 +1,6 @@
+Hosting at github pages.
+[https://hff-workshop-japan.github.io/workshop-docs/](https://hff-workshop-japan.github.io/workshop-docs/)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
