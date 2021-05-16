@@ -1,1 +1,0 @@
-(self.webpackChunkworkshop_docs=self.webpackChunkworkshop_docs||[]).push([[976],{3047:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/workshop-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/workshop-docs/blog/tags/hola"}')}}]);
