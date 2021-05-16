@@ -9,7 +9,7 @@ Unityの準備が完了したら、レベルの作成を開始できます。
 
 ## 新しいUnityProjectの作成
 
-まず、Unity画面右上の[+New]ボタンから、新しいプロジェクトを作成します。
+画面右上の **[+New]** ボタンから、新しいプロジェクトを作成します。
 
 - Project name: プロジェクト名。自分が管理しやすい名前をつけます。例：HffTutorial
 - Location: プロジェクトの保存先を指定します。例としてデスクトップに作成したHFFフォルダを指定しています。
@@ -17,6 +17,9 @@ Unityの準備が完了したら、レベルの作成を開始できます。
 - Template: テンプレート。3Dを選択して下さい。変更する必要はありません。
 
 その他の項目も特に変更する必要はありません。[Create project]をクリックして作成します。
+
+<img src="/workshop-docs/img/tutorial-levels/create_unity_project.png" />
+<img src="/workshop-docs/img/tutorial-levels/create_unity_project_2.png" />
 
 ## HFF用のプロジェクト設定
 
@@ -37,14 +40,22 @@ Assets > Import Package > Custom Package... を選択し、上記のパスにあ
 全てにチェックがついていることを確認し、[Import]をクリックします。
 この処理には5分~10分程度の時間を要します。
 
+<img src="/workshop-docs/img/tutorial-levels/unity_import_package.png" />
+<img src="/workshop-docs/img/tutorial-levels/unity_import_package_dialog.png" />
+
 ### 2. HumanFallFlatのProjectSettingを適用する
 
 上記のパスにある`ProjectSettings`フォルダを丸ごと、先ほど作成したUnityプロジェクトのフォルダにコピー＆ペーストします。
 その後、Unityを再起動し、Unityプロジェクトを開き直して下さい。
 
+<img src="/workshop-docs/img/tutorial-levels/copy_paste_project_setting.png" />
+<img src="/workshop-docs/img/tutorial-levels/copy_paste_project_setting_dialog.png" />
+
 ### 確認
 
-Unity画面下部に配置される[Project]タブのAssetsが下記のような状態になっていることを確認します。
-Unity画面上部のメニュー内に[Human]が追加されていることを確認します。
+Unity画面下部に配置される[Project]タブのAssetsが下記のような状態になっていることを確認します。  
+Unity画面上部のメニュー内に[Human]が追加されていることを確認します。  
+
+<img src="/workshop-docs/img/tutorial-levels/unity_project_complete.png" />
 
 これでHFF用プロジェクト設定は完了です。
